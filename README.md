@@ -1,3 +1,8 @@
+i have used reactjs for this project
+npm install
+runing the app:
+npm run dev
+
 figma design PDF:
 --------------------------
 [Landingpage.pdf](https://github.com/user-attachments/files/18526986/Landingpage.pdf)
