@@ -11,4 +11,4 @@ figma design PDF:
 
 Live deployed link:
 -----------------------
-https://subtle-liger-b3c682.netlify.app/
+https://tourmaline-chaja-6ceda4.netlify.app/
