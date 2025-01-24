@@ -547,7 +547,7 @@ button .button_primary:hover {
 } */
 .logo_new_sectio {
   background-color: var(--primary-bg-color) !important;
-
+  padding: 13px;
   z-index: 100;
   border-bottom: 0.5px solid #22222277;
 }

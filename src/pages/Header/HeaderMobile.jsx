@@ -130,32 +130,20 @@ const Header = () => {
                     </div>
                     <div className="menu_statis">
                       <ListItem button className="drawa">
-                        <a href="#home">Create AI template</a>
+                        <a href="#home">All</a>
                       </ListItem>
                       <ListItem button className="drawa">
-                        <a href="#feature">Arbitration</a>
+                        <a href="#feature">Shop by Goals</a>
                       </ListItem>
                       <ListItem button className="drawa ">
-                        <a href="#overview">Mediation</a>
-                      </ListItem>
-
-                      <ListItem button className="drawa ">
-                        <a href="#tutorial">Upload Contract</a>
-                      </ListItem>
-                      <ListItem button className="drawa ">
-                        <a href="#tutorial">Digital Sign</a>
-                      </ListItem>
-                      <ListItem button className="drawa ">
-                        <a href="#tutorial">Legal Document</a>
+                        <a href="#overview">Equipment</a>
                       </ListItem>
 
                       <ListItem button className="drawa ">
-                        <Button
-                          className="nav-btn login-btn"
-                          onClick={() => navigate("/login")}
-                        >
-                          Login
-                        </Button>
+                        <a href="#tutorial">Supplements</a>
+                      </ListItem>
+                      <ListItem button className="drawa ">
+                        <a href="#tutorial">Deals</a>
                       </ListItem>
                     </div>
                   </div>
