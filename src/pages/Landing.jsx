@@ -36,7 +36,7 @@ function Login() {
             <div className="col-lg-6 d-flex align-items-center">
               <div className="hero_content">
                 <h1>
-                  New Year, <span>New You!</span>
+                  New Year, <span>New You</span>
                 </h1>
                 <p>Up to 50% off on top workout gear and fitness essentials.</p>
                 <Button className="button_primary">Shop Now</Button>

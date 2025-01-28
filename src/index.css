@@ -429,7 +429,63 @@ button .button_primary:hover {
 .media-links ul {
   list-style: none;
 }
-
+.Navication {
+  padding: 20px 0px;
+  margin-bottom: 10px;
+}
+.Navication ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+}
+.Filter {
+  background: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  height: 100vh;
+}
+.Filter-Head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 8px;
+}
+.Filter-Head {
+  margin: 0;
+  font-weight: 600;
+  font-size: 20px;
+}
+.Filter-Body ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.Filter-Body ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 0px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #676464;
+}
+button.button_Filter,
+button.button_Filter:hover {
+  text-transform: capitalize;
+  width: 100%;
+  background: #fbbd0a;
+  min-height: 49px;
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 20px 0px;
+}
 /* Responsive Design */
 @media (max-width: 768px) {
   .deal-card.large {
